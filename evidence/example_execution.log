@@ -1,0 +1,21 @@
+RQALPHA OFFICIAL EXAMPLE / ACTUAL EXECUTION
+Python: 3.11.11 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:34:19) [MSC v.1929 64 bit (AMD64)]
+Conda environment: D:\rqalpha_exam\envs\rqalpha\python.exe
+Conda manager: D:\rqalpha_exam\anaconda3\Scripts\conda.exe
+RQAlpha: 6.4.0
+OS: Windows-10-10.0.26100-SP0
+Example: rqalpha/rqalpha/examples/buy_and_hold.py
+Period: 2024-01-02 -> 2024-12-31
+Capital: CNY 10,000,000 | benchmark: CSI 300
+[2024-01-02 00:00:00.000000] INFO: user_log: init
+
+BACKTEST COMPLETED SUCCESSFULLY
+total_returns         : 0.374706
+annualized_returns    : 0.392903
+sharpe                : 1.363008
+max_drawdown          : 0.106916
+Actual trade records: 1
+order_book_id side  last_quantity  last_price
+  000001.XSHE  BUY        1085400        9.21
+
+Full results: results/example/

@@ -1,0 +1,11 @@
+{
+  "python": "3.11.11 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:34:19) [MSC v.1929 64 bit (AMD64)]",
+  "executable": "D:\\rqalpha_exam\\envs\\rqalpha\\python.exe",
+  "platform": "Windows-10-10.0.26100-SP0",
+  "rqalpha": "6.4.0",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "repository": "https://github.com/ricequant/rqalpha",
+  "commit": "a5fb4e43879c381e61131399dcc094d495c7080a",
+  "bundle_url": "https://bundle.assets.ricequant.com/bundles_v4/rqbundle_202608.tar.bz2"
+}

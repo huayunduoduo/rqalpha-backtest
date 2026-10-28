@@ -1,0 +1,15 @@
+name: rqalpha-exam
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy==1.26.4
+      - pandas==2.3.3
+      - matplotlib==3.11.2
+      - h5py==3.16.0
+      - hdf5plugin==7.1.0
+      - rqrisk==1.0.13
+# 安装上述环境后，再对固定提交的 rqalpha 源码执行 pip install -e ./rqalpha。
+# 此文件为核心依赖摘要；完整第三方包锁定见 requirements-lock.txt。

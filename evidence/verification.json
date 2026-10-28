@@ -1,0 +1,30 @@
+[
+  {
+    "run": "smoke",
+    "status": "PASS",
+    "rebalance_dates": 8,
+    "factor_samples_verified": 9,
+    "trades": 3209
+  },
+  {
+    "run": "baseline_full",
+    "status": "PASS",
+    "rebalance_dates": 256,
+    "factor_samples_verified": 9,
+    "trades": 94495
+  },
+  {
+    "run": "baseline_test",
+    "status": "PASS",
+    "rebalance_dates": 53,
+    "factor_samples_verified": 9,
+    "trades": 22418
+  },
+  {
+    "run": "optimized_test",
+    "status": "PASS",
+    "rebalance_dates": 53,
+    "factor_samples_verified": 9,
+    "trades": 24655
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "base": {
+    "start_date": "2025-01-02",
+    "end_date": "2025-12-31",
+    "frequency": "1d",
+    "accounts": {
+      "stock": 10000000
+    },
+    "data_bundle_path": "D:\\rqalpha_exam\\bundle",
+    "capital_gain_tax_rate": 0
+  },
+  "extra": {
+    "log_level": "error",
+    "context_vars": {
+      "lookback": 25,
+      "top_pct": 0.125,
+      "out_dir": "D:\\rqalpha_exam\\results\\optimized_test",
+      "save_audit": true
+    }
+  },
+  "mod": {
+    "sys_analyser": {
+      "enabled": true,
+      "benchmark": "000300.XSHG",
+      "plot": false
+    },
+    "sys_progress": {
+      "enabled": false
+    },
+    "sys_simulation": {
+      "matching_type": "current_bar",
+      "slippage": 0.001,
+      "price_limit": true,
+      "volume_limit": true,
+      "volume_percent": 0.1
+    },
+    "sys_transaction_cost": {
+      "stock_commission_multiplier": 0.375,
+      "stock_min_commission": 5,
+      "pit_tax": true
+    }
+  }
+}

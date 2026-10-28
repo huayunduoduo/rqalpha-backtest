@@ -1,0 +1,94 @@
+{
+  "active_prefix": null,
+  "active_prefix_name": null,
+  "av_data_dir": "D:\\rqalpha_exam\\anaconda3\\etc\\conda",
+  "av_metadata_url_base": null,
+  "channels": [
+    "https://repo.anaconda.com/pkgs/main/win-64",
+    "https://repo.anaconda.com/pkgs/main/noarch",
+    "https://repo.anaconda.com/pkgs/r/win-64",
+    "https://repo.anaconda.com/pkgs/r/noarch",
+    "https://repo.anaconda.com/pkgs/msys2/win-64",
+    "https://repo.anaconda.com/pkgs/msys2/noarch"
+  ],
+  "conda_build_version": "24.1.2",
+  "conda_env_version": "24.1.2",
+  "conda_location": "D:\\rqalpha_exam\\anaconda3\\Lib\\site-packages\\conda",
+  "conda_prefix": "D:\\rqalpha_exam\\anaconda3",
+  "conda_shlvl": -1,
+  "conda_version": "24.1.2",
+  "config_files": [],
+  "default_prefix": "D:\\rqalpha_exam\\anaconda3",
+  "env_vars": {
+    "CIO_TEST": "<not set>",
+    "CODEX_APP_TOOLS_PIPE_PATH": "\\\\.\\pipe\\codex-browser-use-99f418e9-2769-461e-a976-8c7770218426",
+    "CODEX_MCP_NODE_PATH": "C:\\Users\\\u8212\u7426\u51e1\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\a708e72b10c27b59\\bin\\node.exe",
+    "CONDA_ENVS_PATH": "D:\\rqalpha_exam\\envs",
+    "CONDA_PKGS_DIRS": "D:\\rqalpha_exam\\cache\\conda",
+    "CONDA_ROOT": "D:\\rqalpha_exam\\anaconda3",
+    "CURL_CA_BUNDLE": "<not set>",
+    "HOMEPATH": "\\Users\\\u8212\u7426\u51e1",
+    "LD_PRELOAD": "<not set>",
+    "PATH": "C:\\Users\\\u8212\u7426\u51e1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\powershell;C:\\Users\\\u8212\u7426\u51e1\\.codex\\tmp\\arg0\\codex-arg0EGKC8h;C:\\Users\\\u8212\u7426\u51e1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\libheif\\libheif\\bin;C:\\Users\\\u8212\u7426\u51e1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\jxrlib\\jxrlib\\bin;C:\\Users\\\u8212\u7426\u51e1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\poppler\\Library\\bin;C:\\Users\\\u8212\u7426\u51e1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\bin\\override;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\MATLAB\\R2023a\\runtime\\win64;C:\\Program Files\\MATLAB\\R2023a\\bin;C:\\Program Files (x86)\\Microsoft SQL Server\\160\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\160\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\160\\DTS\\Binn\\;C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\;C:\\Program Files\\Git\\cmd;d:\\Trae CN\\resources\\app\\modules\\ai-agent\\bin;C:\\Users\\\u8212\u7426\u51e1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\powershell;C:\\Users\\\u8212\u7426\u51e1\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\\u8212\u7426\u51e1\\.dotnet\\tools;D:\\modelsim-win64-10.6e-se\\win64;d:\\Trae CN\\resources\\app\\bin\\lib;d:\\Trae CN\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin;D:\\Programs\\npm_global;D:\\Microsoft VS Code\\bin;C:\\Users\\\u8212\u7426\u51e1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\bin\\fallback;C:\\Users\\\u8212\u7426\u51e1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin;C:\\Users\\\u8212\u7426\u51e1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\git\\cmd;C:\\Users\\\u8212\u7426\u51e1\\AppData\\Local\\OpenAI\\Codex\\bin\\116cfc4fd47f015a;C:\\Users\\\u8212\u7426\u51e1\\AppData\\Local\\OpenAI\\Codex\\bin\\bffc5354119c8421",
+    "PSMODULEPATH": "C:\\Users\\\u8212\u7426\u51e1\\Documents\\PowerShell\\Modules;C:\\Program Files\\PowerShell\\Modules;c:\\users\\\u8212\u7426\u51e1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\powershell\\Modules;C:\\Users\\\u8212\u7426\u51e1\\Documents\\WindowsPowerShell\\Modules;C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules;C:\\Program Files (x86)\\Microsoft SQL Server\\160\\Tools\\PowerShell\\Modules\\",
+    "REQUESTS_CA_BUNDLE": "<not set>",
+    "SSL_CERT_FILE": "<not set>"
+  },
+  "envs": [
+    "D:\\rqalpha_exam\\anaconda3",
+    "D:\\rqalpha_exam\\envs\\rqalpha",
+    "D:\\rqalpha_exam\\miniconda3"
+  ],
+  "envs_dirs": [
+    "D:\\rqalpha_exam\\envs",
+    "D:\\rqalpha_exam\\anaconda3\\envs",
+    "C:\\Users\\\u8212\u7426\u51e1\\.conda\\envs",
+    "C:\\Users\\\u8212\u7426\u51e1\\AppData\\Local\\conda\\conda\\envs"
+  ],
+  "is_windows_admin": false,
+  "netrc_file": null,
+  "offline": false,
+  "pkgs_dirs": [
+    "D:\\rqalpha_exam\\cache\\conda"
+  ],
+  "platform": "win-64",
+  "python_version": "3.11.7.final.0",
+  "rc_path": "C:\\Users\\\u8212\u7426\u51e1\\.condarc",
+  "requests_version": "2.31.0",
+  "root_prefix": "D:\\rqalpha_exam\\anaconda3",
+  "root_writable": true,
+  "site_dirs": [],
+  "solver": {
+    "default": true,
+    "name": "libmamba",
+    "user_agent": "solver/libmamba conda-libmamba-solver/24.1.0 libmambapy/1.5.6"
+  },
+  "sys.executable": "D:\\rqalpha_exam\\anaconda3\\python.exe",
+  "sys.prefix": "D:\\rqalpha_exam\\anaconda3",
+  "sys.version": "3.11.7 | packaged by Anaconda, Inc. | (main, Dec 15 2023, 18:05:47) [MSC v.1916 64 bit (AMD64)]",
+  "sys_rc_path": "D:\\rqalpha_exam\\anaconda3\\.condarc",
+  "user_agent": "conda/24.1.2 requests/2.31.0 CPython/3.11.7 Windows/10 Windows/10.0.26100 solver/libmamba conda-libmamba-solver/24.1.0 libmambapy/1.5.6 aau/0.4.3 c/Emr4v67DoOBbeLPcdKOwgF PaRKeGXQ s/0PrZzyWQriZOz_1QHM5icQ e/WFWENWQcHr9jz83EyJtUVg",
+  "user_rc_path": "C:\\Users\\\u8212\u7426\u51e1\\.condarc",
+  "virtual_pkgs": [
+    [
+      "__archspec",
+      "1",
+      "x86_64"
+    ],
+    [
+      "__conda",
+      "24.1.2",
+      "0"
+    ],
+    [
+      "__cuda",
+      "12.7",
+      "0"
+    ],
+    [
+      "__win",
+      "0",
+      "0"
+    ]
+  ]
+}

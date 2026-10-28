@@ -1,0 +1,2 @@
+datetime,datetime,trading_datetime,order_book_id,symbol,side,position_effect,exec_id,tax,commission,last_quantity,last_price,order_id,transaction_cost
+2024-01-02 15:00:00,2024-01-02 15:00:00,2024-01-02 15:00:00,000001.XSHE,平安银行,BUY,OPEN,17896536140000,0,2998.9602,1085400,9.21,17896536140000,2998.9602
